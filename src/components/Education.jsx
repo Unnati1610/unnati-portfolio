@@ -120,8 +120,8 @@ const Education = ({ darkMode }) => {
         animate="show"
       >
         <CertificationCard
-          title="ReactJS Developer"
-          issuer="HackerRank"
+          title="React Testing Library- Jest"
+          issuer="Udemy"
           icon={FaReact}
         />
         <CertificationCard
