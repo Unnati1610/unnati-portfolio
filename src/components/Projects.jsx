@@ -148,7 +148,7 @@ const Projects = ({ darkMode }) => {
       ],
     },
     {
-      title: "Join ownership on credit card",
+      title: "Joint ownership on credit card",
       description:
         "Developed a joint credit card ownership application enabling primary and secondary owners to complete registration processes through forms capturing essential and relative information.",
       techStack: [

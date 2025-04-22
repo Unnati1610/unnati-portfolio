@@ -40,7 +40,7 @@ const TimelineItem = ({
         <motion.div
           className={`absolute w-8 h-8 ${
             type === "education" ? "bg-green-500" : "bg-blue-500"
-          } rounded-full top-0 left-1/2 transform -translate-x-1/2 flex items-center justify-center`}
+          } rounded-full top-0 left-1/2 transform -translate-x-1/2 flex items-center justify-center md:flex hidden`}
           initial={{ scale: 0 }}
           whileInView={{ scale: 1 }}
           transition={{ type: "spring", stiffness: 300, delay: 0.2 }}
